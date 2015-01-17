@@ -30,6 +30,9 @@
   display: none;
   z-index: 2000;
 
+  max-height: 100%;
+  overflow-y: auto;
+
   h2 {
     color: #575757;
     font-size: 30px;
